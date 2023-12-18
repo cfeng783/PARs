@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+.project
+.pydevproject
+log.txt
+.ipynb_checkpoints
