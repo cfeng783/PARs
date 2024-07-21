@@ -2,11 +2,11 @@
 
 This repository includes the Python package which offers functionalities for explaining data anomalies detected by arbitrary models using PARs. The methodology of PARs is described in the follow paper:  
 
-Cheng Feng. 2024. PARs: Predicate-based Association Rules for Efficient and Accurate Anomaly Explanation. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24), October 21–25, 2024, Boise, ID, USA. ACM, New York, NY, USA, 10 pages. https: //doi.org/10.1145/3627673.3679625.
+Cheng Feng. 2024. PARs: Predicate-based Association Rules for Efficient and Accurate Anomaly Explanation. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24), October 21–25, 2024, Boise, ID, USA. ACM, New York, NY, USA, 10 pages. https: //doi.org/10.1145/3627673.3679625. 
 
-An extended version is available at https://arxiv.org/abs/2312.10968.
+An extended version for the paper is available at [arxiv](https://arxiv.org/abs/2312.10968).
 
-The scripts for experiments in the paper is available at https://github.com/cfeng783/PARs-Exp.
+The scripts for experiments in the paper are available [here](https://github.com/cfeng783/PARs-Exp).
 
 #### Install dependencies
 
@@ -14,7 +14,7 @@ The scripts for experiments in the paper is available at https://github.com/cfen
 pip install -r requirements.txt
 ```
 
-#### How to use the PARs package
+#### How to use the package
 
 ```python
 ### define features and the PARAnomalyExplainer
